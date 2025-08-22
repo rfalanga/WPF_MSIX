@@ -7,6 +7,13 @@
         mc:Ignorable="d"
         Title="WPF Hello World Core" Height="450" Width="800">
     <Grid>
-
+        <TextBlock
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center"
+            FontSize="36"
+            FontWeight="Bold"
+            Foreground="DarkBlue">
+            Hello, World!
+        </TextBlock>
     </Grid>
 </Window>
